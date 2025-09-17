@@ -3,7 +3,7 @@
 
 # alibre-excel-addon
 
-Proof of concept node based scripting for Alibre Design.
+N/A
 
 ## Who is this for
 
